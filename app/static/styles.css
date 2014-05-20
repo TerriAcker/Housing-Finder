@@ -1,0 +1,43 @@
+div.content{
+	border - color:green;
+	border - width:5px;
+	font - family;Arial;
+	width:300px;
+	height:300px;
+	float:left;
+}
+
+/* This is a comment */
+div.menu {
+	border-color:#427fed;
+	border - width:10px;
+	border-style:dotted;
+	font-weight:bold;
+	font-family: 'Century Gothic';
+	width: 20%;
+	float:left;
+	padding-bottom:15px;
+	margin-bottom;20px;
+	height:100%;
+}
+#secondHeader {color:red;}
+p{
+	border-color:green;
+}
+h1{color:purple;}
+
+div.header{
+	height:50px;
+	width:300px;
+	margin:10px;
+	margin-right:10px; 
+	margin-left:10px; 
+	margin-bottom:10px;
+	margin-top:10px;
+	background-color: red;
+
+
+float: center;
+text-align: center;
+font-family: Helvetica;
+		        ;}
